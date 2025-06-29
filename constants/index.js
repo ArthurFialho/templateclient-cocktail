@@ -102,10 +102,10 @@ const goodLists = [
 
 const storeInfo = {
   heading: "Where to Find Us",
-  address: "456, Raq Blvd. #404, Los Angeles, CA 90210",
+  address: "123, Av. Test #404, Minas Gerais, BR 90210",
   contact: {
-    phone: "(555) 987-6543",
-    email: "hello@jsmcocktail.com",
+    phone: "(31) 99999-9999",
+    email: "cocktail@test.com",
   },
 };
 

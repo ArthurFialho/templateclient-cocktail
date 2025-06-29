@@ -79,7 +79,7 @@ const Contact = () => {
         </div>
 
         <div>
-          <h3>Socials</h3>
+          <h3 className="text-[1.5rem] font-bold">Socials</h3>
 
           <div className="flex-center gap-5">
             {socials.map((social) => (
