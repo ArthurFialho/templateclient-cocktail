@@ -117,7 +117,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 
 Assets and snippets used in the project can be found in the **[Video Kit](https://jsm.dev/cocktail-kit)**.
 
-<a href="https://jsm.dev/cocktail-kit" target="_blank">
+<a href="https://jsm.dev/cocktail-kit" target="_blank"> 
   <img src="public/readme/videokit.png" alt="Video Kit Banner">
 </a>
 
