@@ -59,7 +59,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **SplitText Animations**: Create impactful text reveals using GSAP’s SplitText for dynamic intros and section highlights.   
 
-👉 **ScrollTrigger Effects**: Power scroll-based animations and timeline control with GSAP’s ScrollTrigger.
+👉 **ScrollTrigger Effects**: Power scroll-based animations and timeline control with GSAP’s ScrollTrigger. 
  
 👉 **Parallax Scrolling**: Add immersive depth with smooth parallax effects that respond to user scroll.
 
