@@ -71,7 +71,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Custom Carousel**: Build a fully customized carousel with multiple navigation options and animated slides.
 
-👉 **Seamless Timeline Animations**: Craft smooth animation timelines that span across multiple sections.
+👉 **Seamless Timeline Animations**: Craft smooth animation timelines that span across multiple sections. 
 
 👉 **Responsive Design**: Ensure fluid UI and adaptive GSAP animations across all screen sizes.
 
