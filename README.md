@@ -75,7 +75,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Responsive Design**: Ensure fluid UI and adaptive GSAP animations across all screen sizes.
 
-And many more, including enhanced security and optimized video performance!
+And many more, including enhanced security and optimized video performance! 
 
 
 ## <a name="quick-start">🤸 Quick Start</a>
