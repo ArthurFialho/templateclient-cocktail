@@ -67,7 +67,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Scroll-Synced Video Playback**: Sync video progress with scroll position for cinematic storytelling.
 
-👉 **Image Masking Effects**: Use scroll-triggered pins and masks for visually striking image transitions.
+👉 **Image Masking Effects**: Use scroll-triggered pins and masks for visually striking image transitions. 
 
 👉 **Custom Carousel**: Build a fully customized carousel with multiple navigation options and animated slides. 
 
