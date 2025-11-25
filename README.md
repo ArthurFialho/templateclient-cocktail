@@ -69,7 +69,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Image Masking Effects**: Use scroll-triggered pins and masks for visually striking image transitions.
 
-👉 **Custom Carousel**: Build a fully customized carousel with multiple navigation options and animated slides.
+👉 **Custom Carousel**: Build a fully customized carousel with multiple navigation options and animated slides. 
 
 👉 **Seamless Timeline Animations**: Craft smooth animation timelines that span across multiple sections. 
 
