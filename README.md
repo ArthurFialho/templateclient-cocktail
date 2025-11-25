@@ -63,7 +63,7 @@ If you're getting started and need assistance or face any bugs, join our active 
  
 👉 **Parallax Scrolling**: Add immersive depth with smooth parallax effects that respond to user scroll.
 
-👉 **Pinned Sections**: Lock sections in view while animating content for engaging scroll experiences.
+👉 **Pinned Sections**: Lock sections in view while animating content for engaging scroll experiences. 
 
 👉 **Scroll-Synced Video Playback**: Sync video progress with scroll position for cinematic storytelling.
 
