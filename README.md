@@ -61,7 +61,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **ScrollTrigger Effects**: Power scroll-based animations and timeline control with GSAP’s ScrollTrigger. 
  
-👉 **Parallax Scrolling**: Add immersive depth with smooth parallax effects that respond to user scroll.
+👉 **Parallax Scrolling**: Add immersive depth with smooth parallax effects that respond to user scroll. 
 
 👉 **Pinned Sections**: Lock sections in view while animating content for engaging scroll experiences. 
 
