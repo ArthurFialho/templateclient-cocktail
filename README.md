@@ -73,7 +73,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Seamless Timeline Animations**: Craft smooth animation timelines that span across multiple sections. 
 
-👉 **Responsive Design**: Ensure fluid UI and adaptive GSAP animations across all screen sizes.
+👉 **Responsive Design**: Ensure fluid UI and adaptive GSAP animations across all screen sizes. 
 
 And many more, including enhanced security and optimized video performance! 
 
